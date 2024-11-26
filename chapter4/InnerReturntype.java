@@ -1,6 +1,6 @@
 package chapter4;
 import java.util.*;
-public class Returntype {
+public class InnerReturntype {
     void getEmployees(){
         ArrayList<Employees> employees= new ArrayList<>();
         employees.add(new Employees("Marco",19000)); 
